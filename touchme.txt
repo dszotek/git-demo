@@ -1,2 +1,3 @@
 sudo touch me
 cat me
+rm me
